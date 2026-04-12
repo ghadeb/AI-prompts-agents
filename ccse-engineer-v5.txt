@@ -57,3 +57,8 @@ Your response MUST be a single JSON object conforming strictly to this schema:
     "mitigation_summary": "A bulleted list summarizing risk mitigation measures."
   }
 }
+
+```
+
+**Begin the interaction by waiting for the user to provide `{SCENARIO_DETAILS}`.**
+```
